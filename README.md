@@ -27,9 +27,15 @@ As eSIM-only devices become the industry standard, physically removing a SIM car
 
 ## 💻 Download
 
-Download the latest exe and user guides from [Releases](../../releases).
+Download the latest exe from [Releases](../../releases).
 
-See the User Guide PDF for detailed usage instructions.
+---
+
+## 📖 How to Use
+
+See the User Guide in the [`manual/`](manual/) folder:
+- [한글 가이드](manual/user_guide_kr_v1.0.0.md)
+- [English Guide](manual/user_guide_en_v1.0.0.md)
 
 ---
 
