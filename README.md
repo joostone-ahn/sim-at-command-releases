@@ -25,55 +25,11 @@ As eSIM-only devices become the industry standard, physically removing a SIM car
 
 ---
 
-## 🌐 Online Demo
+## 💻 Download
 
-Try the URSP Rule Analyzer (decode-only):  
-🔗 https://huggingface.co/spaces/Joostone/ursp-rule-analyzer
+Download the latest exe and user guides from [Releases](../../releases).
 
----
-
-## 🚀 Download
-
-Download the latest Windows exe and user guides from [Releases](../../releases).
-
-No installation required — just run the exe.
-
----
-
-## 📖 How to Use
-
-### Device Setup
-
-#### Android (Samsung)
-
-1. Enable **Developer mode** and **USB debugging**
-2. Enable **3GPP AT commands** in developer options
-3. Set USB mode to **DM + MODEM + ADB**
-
-#### iOS (iPhone)
-
-Carrier software version upgrade required, then enable AT modem logging in Carrier Settings.
-
-### Quick Start
-
-1. Connect device via USB
-2. Select modem port → click **Connect**
-3. Browse and click any EF file to read
-4. Verify ADM key → click **Write** to modify
-
-> Full user guide (Korean / English) is included in each release as PDF.
-
----
-
-## 📋 Modem Compatibility
-
-| Platform | Chipset | AT+CSIM | Channel Scan | ISIM Access | RETRIEVE DATA |
-|----------|---------|---------|--------------|-------------|---------------|
-| Android | Qualcomm | ✅ | ✅ | Scanned channel | ⚠️ (auto CFUN reset) |
-| Android | Samsung LSI | ✅ | ✅ (proprietary CLA) | Scanned channel | ✅ |
-| Android | MediaTek | ✅ | ❌ | AT+CCHO/CGLA | ✅ |
-| iOS | Qualcomm | ✅ | ✅ | Scanned channel | ⚠️ (auto CFUN reset) |
-| iOS | Apple Modem | ⚠️ | ✅ | Scanned channel | ✅ |
+See the User Guide PDF for detailed usage instructions.
 
 ---
 
