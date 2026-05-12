@@ -33,9 +33,9 @@ Download the latest exe from [Releases](../../releases).
 
 ## 📖 How to Use
 
-See the User Guide in the [`manual/`](manual/) folder:
-- [한글 가이드](manual/user_guide_kr_v1.0.0.md)
-- [English Guide](manual/user_guide_en_v1.0.0.md)
+See the User Guide for detailed instructions:
+- [English](manual/user_guide_en_v1.0.0.md)
+- [한국어](manual/user_guide_kr_v1.0.0.md)
 
 ---
 
@@ -52,9 +52,10 @@ See the User Guide in the [`manual/`](manual/) folder:
 
 ## 👤 Author
 
-**JUSEOK AHN**  
-LG U+ / Network Infra Technology  
-ajs3013@lguplus.co.kr
+**JUSEOK AHN (안주석)**  
+**Email**: ajs3013@lguplus.co.kr  
+**Organization**: LG U+  
+**Role**: Technical Specialist, Telecommunications Engineer
 
 ---
 
