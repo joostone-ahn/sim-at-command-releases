@@ -62,3 +62,7 @@ See the User Guide for detailed instructions:
 ## 📄 License
 
 © 2026 JUSEOK AHN <ajs3013@lguplus.co.kr>. All rights reserved.
+
+### Third-party
+
+`pySim` by [Osmocom](https://gitea.osmocom.org/sim-card/pysim) — licensed under GPLv2.
