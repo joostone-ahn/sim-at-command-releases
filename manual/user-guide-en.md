@@ -1,7 +1,7 @@
 # SIM AT Command Tool — User Guide
 
-> Version: v1.0.0  
-> Last updated: 2026-05-12
+> Based on: v1.1.0  
+> Last updated: 2026-06-04
 
 ---
 
@@ -232,7 +232,7 @@ Use the toggle at the top of the File Contents panel to switch display modes:
 | ACC (Access Control Class) | Class 0–15 + True/False status |
 | ARR (Access Rule Reference) | Read/Update/Write/Activate/Deactivate conditions table |
 | URSP | Tree-formatted rule display (Precedence, TD, RSD) |
-| Other EFs | JSON structure (pySim-based decoding) |
+| Other EFs | JSON structure (3GPP standards-based decoding) |
 
 ### Error Display
 

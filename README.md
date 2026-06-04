@@ -34,8 +34,8 @@ Download the latest exe from [Releases](../../releases).
 ## 📖 How to Use
 
 See the User Guide for detailed instructions:
-- [English](manual/user_guide_en_v1.0.0.md)
-- [한국어](manual/user_guide_kr_v1.0.0.md)
+- [English](manual/user-guide-en.md)
+- [한국어](manual/user-guide-kr.md)
 
 ---
 
@@ -47,6 +47,15 @@ See the User Guide for detailed instructions:
 - 3GPP TS 24.526 — UE policies (URSP)
 - 3GPP TS 27.007 — AT command set (AT+CSIM, AT+CCHO, AT+CGLA)
 - ISO/IEC 7816-4 — Smart card commands
+
+---
+
+## 📝 Change History
+
+| Version | Date | Description |
+|---------|------|-------------|
+| v1.0.0 | 2026-05-12 | Initial release |
+| v1.1.0 | 2026-06-04 | Custom EF decoder with 110 EFs support, zero external dependencies |
 
 ---
 
@@ -66,5 +75,3 @@ See the User Guide for detailed instructions:
 This software is provided free of charge for personal and internal use.
 You may not modify, distribute, sublicense, or sell copies of this software
 without explicit written permission from the author.
-
-[pySim](https://gitea.osmocom.org/sim-card/pysim) by Osmocom — GPLv2 (included as source for EF decoding).

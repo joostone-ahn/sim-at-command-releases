@@ -1,7 +1,7 @@
 # SIM AT Command Tool — 사용자 가이드
 
-> 버전: v1.0.0  
-> 최종 수정: 2026-05-12
+> 기준 버전: v1.1.0  
+> 최종 수정: 2026-06-04
 
 ---
 
@@ -232,7 +232,7 @@ File Contents 패널 상단의 토글로 표시 모드를 전환합니다:
 | ACC (Access Control Class) | Class 0~15 + True/False 상태 |
 | ARR (Access Rule Reference) | Read/Update/Write/Activate/Deactivate 조건 테이블 |
 | URSP | 트리 형태 규칙 표시 (Precedence, TD, RSD) |
-| 기타 EF | JSON 구조 (pySim 기반 디코딩) |
+| 기타 EF | JSON 구조 (3GPP 표준 기반 자체 디코딩) |
 
 ### 에러 표시
 
